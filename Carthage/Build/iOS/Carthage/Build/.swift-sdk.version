@@ -1,0 +1,57 @@
+{
+  "commitish" : "0.37.0",
+  "iOS" : [
+    {
+      "name" : "NaturalLanguageClassifierV1",
+      "hash" : "af8ad0f5abdfc3f45f7e579725a4c9ad516b47ec88494729eee73fa877bb4700"
+    },
+    {
+      "name" : "LanguageTranslatorV3",
+      "hash" : "d0d67e0f2220cf932a10c2a281e7ae6a9bc3be8214e8b54ef3215964f3392f34"
+    },
+    {
+      "name" : "PersonalityInsightsV3",
+      "hash" : "7d242545f7191fadba06de11dd5436f1d1aa5408c10714af47721bab88dac802"
+    },
+    {
+      "name" : "LanguageTranslatorV2",
+      "hash" : "fd8a8dc9a4632dcd4e100f0d5ec07975c97148f9d483dbebe4a85ddfef16f182"
+    },
+    {
+      "name" : "AssistantV2",
+      "hash" : "794d675dab1ee9a19ec63d27b492a72c935bc80f946159359bd592eb8d9fa369"
+    },
+    {
+      "name" : "ToneAnalyzerV3",
+      "hash" : "8b39bd51ce12b7ae83dc082274e3771533581be949fafff26289be568becea83"
+    },
+    {
+      "name" : "VisualRecognitionV3",
+      "hash" : "e2373c9d70140c5e6bc948719fb649ca4195655ef31b9647227ba552d2777cd7"
+    },
+    {
+      "name" : "TextToSpeechV1",
+      "hash" : "5601cf9f5de5c05f44cd6a550b1413719b63671f210c91545d30e7bbe4743fef"
+    },
+    {
+      "name" : "NaturalLanguageUnderstandingV1",
+      "hash" : "bdf5f03b9916d4ba4df69af4cda4c59adee2b5f4f36048563eb0290225d54e61"
+    },
+    {
+      "name" : "SpeechToTextV1",
+      "hash" : "eaccdda1c0dd056c6332ff7fc7c3911de2ba9029a5b6cb9e530251ee2e1c7bee"
+    },
+    {
+      "name" : "AssistantV1",
+      "hash" : "f9e8d24b68f7afbc93b4181ce03c6b4de7a6c09026de0d6f0b2f752a796d9ba6"
+    },
+    {
+      "name" : "ConversationV1",
+      "hash" : "3868ce92ec2021995dd66915eeecb9056bac4c2b40da4eb893bbdf0fdc2275d9"
+    },
+    {
+      "name" : "DiscoveryV1",
+      "hash" : "38bc5e1139cd2e2d7a9d62ff89d1f497f70ec6867ba8299370c49c5ff2e571cc"
+    }
+  ]
+}
